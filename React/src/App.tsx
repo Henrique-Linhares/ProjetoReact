@@ -13,7 +13,7 @@ function App() {
           <Card
             price={foodData.price}
             title={foodData.title}
-            image={FoodData.image}
+            image={foodData.image}
           />
         ))}
       </div>
